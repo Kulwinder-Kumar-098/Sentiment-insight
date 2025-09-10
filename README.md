@@ -10,7 +10,7 @@ The notebook (Sentiment_insight.ipynb) analyzes how market sentiment (Fear, Gree
 How to Run
 Requirements: Install dependencies:
 
-pip install pandas seaborn matplotlib numpy
+pip install pandas seaborn matplotlib
 Datasets: Place fear_greed_index.csv and historical_data.csv in the same directory as the notebook.
 
 Run: Open in Jupyter Notebook:
